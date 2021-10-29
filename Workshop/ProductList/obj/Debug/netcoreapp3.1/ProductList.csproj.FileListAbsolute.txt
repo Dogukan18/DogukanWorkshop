@@ -1,0 +1,13 @@
+C:\Users\elado\source\repos\exercises\ProductList\bin\Debug\netcoreapp3.1\ProductList.exe
+C:\Users\elado\source\repos\exercises\ProductList\bin\Debug\netcoreapp3.1\ProductList.deps.json
+C:\Users\elado\source\repos\exercises\ProductList\bin\Debug\netcoreapp3.1\ProductList.runtimeconfig.json
+C:\Users\elado\source\repos\exercises\ProductList\bin\Debug\netcoreapp3.1\ProductList.runtimeconfig.dev.json
+C:\Users\elado\source\repos\exercises\ProductList\bin\Debug\netcoreapp3.1\ProductList.dll
+C:\Users\elado\source\repos\exercises\ProductList\bin\Debug\netcoreapp3.1\ProductList.pdb
+C:\Users\elado\source\repos\exercises\ProductList\obj\Debug\netcoreapp3.1\ProductList.csproj.AssemblyReference.cache
+C:\Users\elado\source\repos\exercises\ProductList\obj\Debug\netcoreapp3.1\ProductList.AssemblyInfoInputs.cache
+C:\Users\elado\source\repos\exercises\ProductList\obj\Debug\netcoreapp3.1\ProductList.AssemblyInfo.cs
+C:\Users\elado\source\repos\exercises\ProductList\obj\Debug\netcoreapp3.1\ProductList.csproj.CoreCompileInputs.cache
+C:\Users\elado\source\repos\exercises\ProductList\obj\Debug\netcoreapp3.1\ProductList.dll
+C:\Users\elado\source\repos\exercises\ProductList\obj\Debug\netcoreapp3.1\ProductList.pdb
+C:\Users\elado\source\repos\exercises\ProductList\obj\Debug\netcoreapp3.1\ProductList.genruntimeconfig.cache
